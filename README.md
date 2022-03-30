@@ -1,4 +1,4 @@
-# BrownFig
+# <img src="https://raw.githubusercontent.com/4techguns/BrownFig/master/BrownFig/brown_fig.png" width="48"> BrownFig
 An opinionated and simple Discord bot configuration framework, designed for my Discord bots<br />
 ***NOTE: This is not really intended for actual use by consumers. It has a fixed configuration class and is mainly only designed for managing configuration of my Discord bots. But, if you want to contribute, feel free to do so!***
 
