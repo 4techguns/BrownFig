@@ -1,9 +1,15 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>4techguns</Authors>
+    <RepositoryUrl>https://github.com/4techguns/BrownFig</RepositoryUrl>
+    <PackageIcon>brown_fig.png</PackageIcon>
+    <Description>An opinionated and simple configuration framework, mainly for Discord bots.</Description>
+    <PackageProjectUrl>https://github.com/4techguns/BrownFig</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
